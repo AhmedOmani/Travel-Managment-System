@@ -1,4 +1,8 @@
 # depslib dependency file v1.0
-1730138116 source:c:\users\cc\desktop\travelmanagmentsysytem\main.cpp
+1730142595 source:c:\users\cc\desktop\travelmanagmentsysytem\main.cpp
 	<iostream>
+	"Customer.h"
+
+1730295699 c:\users\cc\desktop\travelmanagmentsysytem\include\customer.h
+	<bits/stdc++.h>
 
