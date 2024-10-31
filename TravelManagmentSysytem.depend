@@ -1,8 +1,13 @@
 # depslib dependency file v1.0
-1730142595 source:c:\users\cc\desktop\travelmanagmentsysytem\main.cpp
+1730404282 source:c:\users\cc\desktop\travelmanagmentsysytem\main.cpp
 	<iostream>
 	"Customer.h"
+	"Cabs.h"
 
-1730295738 c:\users\cc\desktop\travelmanagmentsysytem\include\customer.h
+1730292138 c:\users\cc\desktop\travelmanagmentsysytem\include\customer.h
 	<bits/stdc++.h>
+
+1730404672 c:\users\cc\desktop\travelmanagmentsysytem\include\cabs.h
+	<bits/stdc++.h>
+	<unistd.h>
 

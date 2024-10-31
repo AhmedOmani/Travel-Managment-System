@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include <unistd.h>
 #ifndef CABS_H
 #define CABS_H
 
@@ -49,7 +50,7 @@ class Cabs
 
                 } else {
                     cout << "Invalid Input! Redirecting to previous menu\nPlease Wait!" << endl;
-                    Sleep(1000) ;
+                    sleep(1000) ;
                     system("CLS") ;
                     setDetails() ;
                 }
@@ -80,7 +81,7 @@ class Cabs
 
                 else {
                     cout << "Invalid Input! Redirecting to previous menu\nPlease Wait!" << endl;
-                    Sleep(1000) ;
+                    sleep(1000) ;
                     system("CLS") ;
                     setDetails() ;
                 }
@@ -88,14 +89,14 @@ class Cabs
 
             else {
                 cout << "Invalid Input! Redirecting to main menu\nPlease Wait!" << endl;
-                Sleep(1000) ;
+                sleep(1000) ;
                 system("CLS") ;
-                menu() ;
+                ///menu() ;
             }
 
             cout << "Nothing happen..\nRedirecting to Main menu: " ;
             system("CLS") ;
-            menu() ;
+            ///menu() ;
         }
     protected:
 
